@@ -1,1 +1,1 @@
-Este achivo tambien no se va agregar a git hub.
+Este achivo se va agregar a git hub.
